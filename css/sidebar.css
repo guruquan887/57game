@@ -1,0 +1,22 @@
+/* CSS Document */
+.sidebar{ float:left; width:246px; padding:6px 5px;}
+.bread_crumbs{ height:20px; line-height:20px; padding:5px 0 15px; font-weight:bold; color:#666;}
+.bread_crumbs a{ padding:0 10px; color:#4094e8; text-decoration:none;}
+.bread_crumbs a:hover{ text-decoration:underline;}
+.sidebar_download{border:#ddd solid 1px; border-bottom:none;}
+.sidebar_download li{ height:40px; line-height:40px; padding:0 0 0 15px; border-bottom:#ddd solid 1px;}
+.sidebar_download li a{ font-size:16px; color:#4094e8; text-decoration:none;}
+.sidebar_link{}
+.sidebar_link a{ display:block; height:50px; line-height:50px; padding:0 0 0 20px; font-size:16px; color:#424242; border-bottom:#ddd solid 1px; text-decoration:none;}
+.sidebar_link a:hover,.sidebar_link .active{ color:#fff; background:#1c66c9;}
+.ranking{ padding:0 0 10px; border:#ddd solid 1px;}
+.ranking tr{ height:30px; line-height:30px;}
+.ranking tbody td{ border-bottom:#ddd solid 1px;}
+.ranking .bg{ background:#eee; border-bottom:#ddd solid 1px;}
+
+
+
+
+
+
+

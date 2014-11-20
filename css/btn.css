@@ -1,0 +1,10 @@
+/* CSS Document */
+.btn{ border:none; cursor:pointer;}
+.material_btn{ display:block; margin:5px auto 10px auto; width:134px; height:32px; background:url(../images/download.png) no-repeat;}
+.pay_btn{ width:92px; height:28px; line-height:28px; color:#5e0a0a; text-align:center; margin:10px 0 0; background:url(../images/bg.png) no-repeat -850px -190px;}
+.generalize_btn{ width:90px; height:20px; line-height:20px; font-size:12px; color:#5e0a0a; text-align:center; background:url(../images/bg.png) no-repeat -960px -190px;}
+.btn_yellow,.btn_blue{ display:inline-block; width:96px; height:31px; line-height:31px; font-weight:bold; font-size:16px; text-align:center; background:url(../images/bg.png) no-repeat;}
+.btn_yellow{ color:#550606; background-position:0 -240px;}
+.btn_blue{ color:#fff; background-position:-110px -240px;}
+.select_btn{ width:80px; height:28px; line-height:28px; padding:0 0 0 5px; color:#212121; text-align:left; background:url(../images/select_bg.png) repeat-x; border:#c1c1c1 solid 1PX; cursor:pointer;}
+

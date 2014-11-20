@@ -1,0 +1,45 @@
+/* CSS Document */
+.clearfix {*zoom: 1;}
+.clearfix:before,.clearfix:after {display: table;content: "";line-height: 0;}
+.clearfix:after{clear: both;}
+.hide{ display:none;}
+
+a{ color:#2864b4; text-decoration:none; }
+a:hover{ text-decoration:underline;}
+
+
+.fl{ float:left;}
+.fr{ float:right;}
+
+
+.w_1000{ width:1000px; margin:auto;}
+
+
+.m_t10{ margin:10px 0 0;}
+.m_t15{ margin:15px 0 0;}
+.m_r6{ margin:0 6px 0 0;}
+.m_b10{ margin:0 0 10px;}
+.m_b30{ margin:0 0 30px;}
+.m_l15{ margin:0 0 0 15px;}
+
+.p_l10_r10{ padding:0 10px;}
+.p_b50{ padding:0 0 50px}
+
+.color_f60{ color:#f60;}
+.blue{ color:#2864b4;}
+.black{ color:#000;}
+.bg_white{ background:#fff;}
+.border_solid{ border-bottom:#ddd solid 1px;}
+.border_dashed{ border-bottom:#ddd dashed 1px;}
+.title{ position:relative; height:28px; line-height:28px; margin:0 0 0 5px; padding:7px 0 5px;}
+.title a{ position:absolute; top:10px; right:0; display:inline-block; height:20px; line-height:20px; padding:0 8px; color:#fff; text-align:center; background:#4c85d2; border-radius:6px; text-decoration:none;}
+.title a:hover{ text-decoration:underline;}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+/* CSS Document */
+.index_banner_bg{ width:100%; height:325px; background:url(../images/index_banner_bg.png) repeat-x;}
+.index_banner{ height:320px;}
+.index_banner img{ width:1000px; height:320px; margin:5px 0 0;}
+/*首页侧栏链接*/
+.sidebar_btn{ width:260px; height:272px;}
+.index_link{ display:inline-block; width:260px; height:65px; *padding:0 0 4px; background:url(../images/bg.png) no-repeat;}
+.index_register{ background-position:0 0;}
+.index_register:hover,.index_register_active{ background-position:-270px 0;}
+.index_download{ background-position:-540px 0;}
+.index_download:hover{ background-position:-810px 0;}
+.index_lucky_draw{ background-position:0 -70px;}
+.index_lucky_draw:hover{ background-position:-270px -70px;}
+.index_generalize{ background-position:-540px -70px;}
+.index_generalize:hover{ background-position:-810px -70px;}
+/*新闻公告*/
+.news_wrap,.FAQ{ width:525px; height:260px; padding:6px 5px 6px 10px;}
+.list{ padding:5px 5px 0 10px;}
+.list li{ height:33px; line-height:33px; border-bottom:#d4d4d4 dashed 1px;}
+.list li a{ color:#656565; text-decoration:none;}
+.list li a:hover{ text-decoration:underline;}
+
+/*客服*/
+.service_wrap{ width:175px; height:260px; padding:6px 5px;}
+.service{ height:248px; padding:1px 1px 8px 1px; border:#ddd solid 1px;}
+.eqs{ display:inline-block; width:170px; height:102px; margin:0 0 25px;}
+.service li{ height:40px; line-height:40px; padding:0 0 0 10px; font-size:14px; text-align:center;}
+.service li span{ display:inline-block; float:left; width:65px; color:#000;}
+.service li a{ display:inline-block; width:79px; height:27px; margin:5px 0 0;}
+/*忠告*/
+.advice_wrap{ float:left; width:250px; height:185px; padding:6px 5px;}
+.advice{ padding:8px 5px 0 5px;}
+.advice li{ float:left; width:120px; height:34px; line-height:34px; *height:27px; *line-height:27px; font-size:14px; text-align:center;}
+
+.FAQ{ float:left; height:185px;}
+/*子导航*/
+.subnav_wrap{ width:175px; height:185px; padding:6px 5px;}
+.subnav{ display:inline-block; width:174px; height:43px; *padding:0 0 4px; background:url(../images/bg.png) no-repeat;}
+.intro{ background-position:0 -140px;}
+.intro:hover{ background-position:-185px -140px;}
+.guide{ background-position:-365px -140px;}
+.guide:hover{ background-position:-545px -140px;}
+.issue{ background-position:-730px -140px;}
+.issue:hover{ background-position:-910px -140px;}
+.index_game_intro{ background-position:0 -190px;}
+.index_game_intro:hover{ background-position:-180px -190px;}
+/*推荐游戏*/
+.game_area{ position:relative; height:158px; padding:6px 60px;}
+.game_left,.game_right{ position:absolute; top:50px; width:40px; height:60px; background:url(../images/bg.png) no-repeat; cursor:pointer;}
+.game_left{ left:10px; background-position:-470px -190px;}
+.game_right{ right:10px; background-position:-550px -190px;}
+.game{ overflow:hidden; height:158px; white-space:nowrap;}
+.game a{ display:inline-block; width:208px; height:158px;}
+.game li img{ width:208px; height:158px;}

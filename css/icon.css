@@ -1,0 +1,18 @@
+/* CSS Document */
+.icon{ display:inline-block; background:url(../images/icon.png) no-repeat;}
+.horn{ width:25px; height:15px; margin:6px 0 0; background-position:5px 0;}
+/*已检查*/
+.dot{ float:left; width:12px; height:4px; margin:15px 0 0 5px; background-position:-25px 0;}
+.sidebar_i{ width:40px; height:22px; margin:10px 0 0;}
+.download_i{ background-position:0 -22px;}
+.register_i{ background-position: 0 -55px;}
+.con_i{ float:left; width:18px; height:18px; margin:5px 0 0; background-position:0 -92px;}
+.pay_i,.alipay_i{ display:inline-block; float:left; width:80px; height:60px; background:url(../images/bg.png) no-repeat;}
+.pay_i{ background-position:-640px -190px;}
+.alipay_i{ background-position:-750px -190px;}
+.arrow_b{ position:relative; top:3px; *top:-8px; right:18px; width:14px; height:15px; background-position: -20px -90px; cursor:pointer;}
+
+
+
+
+

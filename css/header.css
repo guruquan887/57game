@@ -1,0 +1,27 @@
+/* CSS Document */
+#top_bg{ position:fixed; top:0; left:0; z-index:10; width:100%; height:25px; background:url(../images/top_bg.png) repeat-x; border-bottom:#ddd solid 1px;}
+#top_bg p{ line-height:25px; color:#7f7f7f;}
+#top_bg p a{ color:#666; text-decoration:none;}
+#top_bg p a:hover{ text-decoration:underline;}
+.topbar{ height:25px; line-height:25px;}
+.topbar a{ margin:0 5px 0 0; color:#333; text-decoration:none;}
+.topbar a:hover{ text-decoration:underline;}
+.header{ height:90px; padding:25px 0 0;}
+.logo{ width:220px; height:80px; padding:10px 0 0 20px;}
+.logo img{ width:194px; height:75px;}
+.nav{ overflow:hidden; height:50px; padding:40px 0 0 10px;}
+.nav ul li{ float:left; height:50px; line-height:50px;}
+.nav .line{ display:inline-block; width:3px; height:22px; margin:14px 0 0; background:url(../images/nav_line.png) no-repeat;}
+.nav li a{ float:left; padding:0 20px; font-size:16px; color:#393939; text-decoration:none;}
+.nav li a:hover,.nav .active a{ color:#4094e8;}
+.nav .active,.nav li:hover{ background:url(../images/nab_active_bg.png) bottom center no-repeat;}
+/*已检查*/
+
+
+
+
+
+
+
+
+

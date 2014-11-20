@@ -1,0 +1,98 @@
+/* CSS Document */
+/*已检查*/
+.banner_bg{ height:155px; background:#1c66c9 url(../images/banner_bg.png) top repeat-x;}
+.banner{ height:150px; border-top:#005688 solid 5px;}
+.banner img{ width:1000px; height:150px;}
+.container{ float:right; width:724px; padding:6px 5px; background:#fff;}
+.container>img{ display:block; margin:auto;}
+.content{ padding:15px 15px 0 15px;}
+.content>img{ display:block; margin:auto auto 30px;}
+.content p{ font-size:14px; line-height:25px;}
+.map_content img{ display:block; width:695px; margin:auto auto 5px auto;}
+.link_pic{ padding:20px 0 0;}
+.link_pic a{ display:inline-block; width:143px; height:45px; border-right:#bcbcbc dashed 1px; border-bottom:#bcbcbc dashed 1px;}
+/*家长监护*/
+.prompt{ padding:0 0 10px;}
+.prompt img{ float:left; width:106px; height:147px; margin:10px 30px 0 40px;}
+.prompt p{ font-size:12px; line-height:20px;}
+.blockquote{ padding:10px 0 10px 25px;}
+.blockquote>strong{ color:#000;}
+.blockquote p{ font-size:12px;}
+.img_m{ margin:0;}
+.con_bread_crumbs{ height:25px; line-height:25px; padding:0 0 5px; font-weight:bold; color:#000;}
+.con_bread_crumbs strong{ color:#060;}
+.description{ padding:10px; background:#eaeaea; border:#cacaca solid 3px;}
+/*游戏介绍*/
+.game_commend{ height:115px; margin:0 20px 0 5px; padding:10px 0;}
+.game_commend>a{ display:inline-block; width:160px; height:115px;}
+.game_commend img{ width:160px; height:115px;}
+.game_intro{ position:relative; width:520px; height:115px; margin:0 0 0 180px;}
+.game_intro h1{ height:30px; line-height:30px; font-size:14px;}
+.game_intro p{ line-height:18px;}
+.game_intro p a{ color:#666; text-decoration:none;}
+.game_intro p a:hover{ text-decoration:underline;}
+.game_intro strong{ position:absolute; right:5px; bottom:0;}
+/*充值*/
+.pay_area{ padding:35px 65px 0 65px; text-align:center;}
+.pay{ width:210px; height:140px; padding:10px 20px; border:#d4ebff solid 5px; border-radius:10px;}
+.pay h1{ height:60px;}
+.pay h1 img{ margin:15px 0 0;}
+.pay p{ line-height:20px; text-align:left;}
+/*兑奖商场*/
+.product_area{ float:right; width:734px; padding:0 0 10px;}
+.product_div{ width:150px; height:220px; margin:10px 0 0 6px; padding:12px; border:#e7e9e8 solid 1px;}
+.product_div img{ display:block; width:150px; height:140px; margin:auto auto 10px auto;}
+.product_div p{ height:18px; line-height:18px;}
+.product_div a{ display:inline-block; height:25px; line-height:25px; color:#fff; text-align:center; text-decoration:none;}
+.orange_bg{ padding:0 12px; background:#ff891b;}
+.blue_bg{ padding:0 24px; background:#006bd3;}
+
+/*客服中心*/
+.service_con{ padding:10px 0 0 10px;}
+.service_con p,.service_con p strong{ height:25px; line-height:25px; font-size:14px;}
+
+/*玩家推广*/
+.title_area{ height:75px; padding:10px 0 10px; text-align:center;}
+.title_area h1{ font-size:30px; color:#187be1;}
+.author{ padding:10px 0 0; height:18px; line-height:18px;}
+.generalize_con{ padding:10px 15px;}
+.generalize_con p{ line-height:20px;}
+.generalize_con strong{ height:35px; line-height:35px; font-size:18px;}
+/*用户中心*/
+.user_breadCrumbs_bg{ height:30px; background:#d1dae5; border-top:#115bb2 solid 5px;}
+.user_tab{ height:30px; line-height:30px;}
+.user_tab ul li{ float:left; margin:0 5px 0 0;}
+.user_tab a{ display:inline-block; padding:0 30px; color:#1d1d1d; text-decoration:none;}
+.user_tab li:hover{ color:#fff; background:#3d474a;}
+.user_tab li:hover a{ color:#fff;}
+.user_tab .active{ color:#fff; background:#3d474a;}
+.user_tab .active a{ color:#fff;}
+.user_parts{ height:90px; border:#dbdedc solid 1px; border-right:none;}
+.user_parts ul li{ float:left; width:297px; padding:20px 0 20px 35px; border-right:#dbdedc solid 1px;}
+.parts_con{ height:50px;}
+.parts_con h1{ font-size:14px; height:25px; line-height:25px;}
+.parts_con a{ display:inline-block; height:20px; line-height:20px; margin:0 0 0 6px; padding:0 11px; font-weight:bold; color:#777; background:#f3f3f3; border:#afafaf solid 1px; text-decoration:none;}
+.dynamic{ height:40px; line-height:40px; padding:0 0 0 10px; border:#e2e2e2 solid 1px; border-bottom:none;}
+.bg_f5{ background:#f5f5f5;}
+.color_08c{ color:#08c;}
+.dynamic ul li{ float:left;}
+.dynamic li a{ padding:0 15px; color:#08c; text-decoration:none;}
+.dynamic_table{ border:#e2e2e2 solid 1px; border-bottom:none;}
+.dynamic_table thead{ color:#000; background:#ddd; border-bottom:#e2e2e2 solid 1px;}
+.dynamic_table tr{ height:30px; line-height:30px;}
+.dynamic_table td{ border-bottom:#e2e2e2 solid 1px;}
+.bg_f1{ background:#f1f1f1;}
+
+/*登录*/
+.login_area{ padding:70px 0 20px 160px;}
+.btn_div{ margin:30px 0 0 136px;}
+.checkbox_div{ margin:10px 0 0 136px;}
+.code{ display:inline-block; width:135px; height:28px; line-height:28px;}
+.code img{vertical-align:middle;}
+
+/*存入*/
+.deposit_area{ padding:10px 0 20px 100px;}
+.select_sum{ width:300px; margin:0 0 0 136px;}
+.select_sum li{ float:left; width:60px;}
+.other{ display:block;}
+
