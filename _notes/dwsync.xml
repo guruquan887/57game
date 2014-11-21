@@ -11,10 +11,12 @@
 <file name="deposit.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609534351322094" remote="130609534350000000" Dst="0" />
 <file name="friendly_link.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609537284654463" remote="130609537280000000" Dst="0" />
 <file name="game_intro.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609534274560727" remote="130609534270000000" Dst="0" />
-<file name="generalize.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609533651573325" remote="130609533650000000" Dst="0" />
+<file name="generalize.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130610067532002891" remote="130610067530000000" Dst="0" />
 <file name="login.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609534736738386" remote="130609534730000000" Dst="0" />
 <file name="map.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609534812808784" remote="130609534810000000" Dst="0" />
 <file name="market.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609534944024141" remote="130609534940000000" Dst="0" />
 <file name="pay.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609535021266404" remote="130609535020000000" Dst="0" />
 <file name="append.jsp" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609527856248734" remote="130609527850000000" Dst="0" />
+<file name=".gitattributes" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130566735064550754" remote="130566735060000000" Dst="0" />
+<file name=".gitignore" server="D:/Program Files/Apache Software Foundation/Tomcat 6.0/webapps/57game/" local="130609538583541906" remote="130609538580000000" Dst="0" />
 </dwsync>

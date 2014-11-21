@@ -54,6 +54,14 @@
 /*玩家推广*/
 .title_area{ height:75px; padding:10px 0 10px; text-align:center;}
 .title_area h1{ font-size:30px; color:#187be1;}
+.title_area h1 em{
+	font-size: 35px;
+	color: #5E0A0A;
+	margin-right: 10px;
+	margin-left: 10px;
+	font-style: normal;
+	font-family: "仿宋", "微软雅黑";
+}
 .author{ padding:10px 0 0; height:18px; line-height:18px;}
 .generalize_con{ padding:10px 15px;}
 .generalize_con p{ line-height:20px;}
@@ -95,4 +103,3 @@
 .select_sum{ width:300px; margin:0 0 0 136px;}
 .select_sum li{ float:left; width:60px;}
 .other{ display:block;}
-

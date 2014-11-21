@@ -26,7 +26,7 @@
         <!--content-->
         <div class="container bg_white" id="con">
         	<div class="title_area border_dashed">
-            	<h1>2014动网科技LSPL春季赛视频直播</h1>
+            	<h1>2014<em>57游戏</em>LSPL春季赛视频直播</h1>
                 <div class="author">014-02-17 22:05　 出处：pcgames　 作者：C.Sirius<button class="generalize_btn btn m_l15">登录推广中心</button></div>
             </div>
             <div class="generalize_con">
