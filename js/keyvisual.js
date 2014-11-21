@@ -13,7 +13,6 @@ $(function () {
                 if (interval == 10000) interval = 5000;
                 scrollImg();
             }
-
 	function scrollImg(){
 	$(aPage).click(function(){
 		var i=$(this).index();
@@ -24,6 +23,4 @@ $(function () {
 	});
 	}
 	scrollImg();
-
-
 });

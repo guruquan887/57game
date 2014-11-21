@@ -39,7 +39,7 @@
         <div class="container bg_white" id="con">
         	<h2 class="title border_dashed"><img src="images/contactus.png"/></h2>
             <div class="content m_l15">
-            	<p>浙江动网科技有限公司</p>
+            	<p>浙江57游戏科技有限公司</p>
                 <p>电话：0571-87061565</p>
                 <p>QQ：8509588  8506188</p>
                 <p>E-mail：doowal@qq.com</p>

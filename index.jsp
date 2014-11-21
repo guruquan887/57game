@@ -5,6 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>57游戏</title>
 <link href="css/style.css" rel="stylesheet" type="text/css">
+<script src="js/jquery-1.8.3.min.js" language="javascript" type="text/javascript"></script>
 </head>
 
 <body>
@@ -94,17 +95,29 @@
             <!--//子导航-->
         </div>
         <!--推荐游戏-->
+        <script language="javascript" type="text/javascript" src="js/game-scroll.js"></script>
         <div class="w_1000 m_b10 clearfix">
  			<div class="title border_solid" style="border:none;"><h2><img src="images/index_title2.png"/></h2><a href="#">更多>></a></div>
             <hr>
             <div class="game_area bg_white">
-            	<div class="game_left"></div>
+            	<div class="game_left prev"></div>
                 <div class="game">
-                    	<a href="#"><img src="images/game_img1.png"/></a><a href="#"><img src="images/game_img2.png"/></a><a href="#"><img src="images/game_img3.png"/></a><a href="#"><img src="images/game_img4.png"/></a><a href="#"><img src="images/game_img1.png"/></a><a href="#"><img src="images/game_img1.png"/></a>
+                	<ul>
+                    	<li><a href="#"><img src="images/game_img1.png"/></a></li>
+                        <li><a href="#"><img src="images/game_img2.png"/></a></li>
+                        <li><a href="#"><img src="images/game_img3.png"/></a></li>
+                        <li><a href="#"><img src="images/game_img4.png"/></a></li>
+                        <li><a href="#"><img src="images/game_img1.png"/></a></li>
+                        <li><a href="#"><img src="images/game_img1.png"/></a></li>
+                    </ul>
                 </div>
-                <div class="game_right"></div>
+                <div class="game_right next"></div>
             </div>
         </div>
+		<script language="javascript">
+          $(".game ul li img").hover(function(){$(this).css("border-color","#A0C0EB");},function(){$(this).css("border-color","#d8d8d8")});
+          jQuery(".game_area").slide({titCell:"",mainCell:".game ul",autoPage:true,effect:"leftLoop",autoPlay:true,vis:4});
+        </script>
         <!--//推荐游戏-->
     </div>
     <!--//container-->

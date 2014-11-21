@@ -46,9 +46,18 @@
 .index_game_intro:hover{ background-position:-180px -190px;}
 /*推荐游戏*/
 .game_area{ position:relative; height:158px; padding:6px 60px;}
-.game_left,.game_right{ position:absolute; top:50px; width:40px; height:60px; background:url(../images/bg.png) no-repeat; cursor:pointer;}
-.game_left{ left:10px; background-position:-470px -190px;}
-.game_right{ right:10px; background-position:-550px -190px;}
-.game{ overflow:hidden; height:158px; white-space:nowrap;}
-.game a{ display:inline-block; width:208px; height:158px;}
+.game_left,.game_right{ position:absolute; top:50px; width:40px; height:70px; background:url(../images/bg.png) no-repeat; cursor:pointer;}
+.game_left{ left:10px; background-position:-495px -190px;}
+.game_right{ right:10px; background-position:-570px -190px;}
+.game{
+	overflow: hidden;
+	height: 158px;
+	white-space: nowrap;
+}
+.game ul li { display: inline; float: left; height: 158px; width: 208px; margin:0px 6px; }
+.game a{
+	display: inline-block;
+	width: 208px;
+	height: 158px;
+}
 .game li img{ width:208px; height:158px;}
