@@ -1,5 +1,8 @@
 /* CSS Document */
-.footer_bg{ height:140px; background:#cfd2d0 url(../images/footer_bg.png) top repeat-x;}
+.footer_bg{
+	height: 140px;
+	background: #cfd2d0 url(../images/footer_bg.png) top repeat-x;
+}
 .footer_link{ height:25px; line-height:25px; padding:10px 0 20px; color:#444; text-align:center;}
 .footer_link a{ padding:0 15px; color:#444; text-decoration:none;}
 .footer_link a:hover{ text-decoration:underline;}

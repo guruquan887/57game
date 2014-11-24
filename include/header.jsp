@@ -1,9 +1,8 @@
 <%@ page contentType="text/html; charset=utf-8" language="java" import="java.sql.*" errorPage="" %>
 <!--top-->
-
 <div id="top_bg">
   <div class="w_1000 clearfix">
-    <p class="fl"><span class="icon horn fl"></span>欢迎来到57游戏，祝你生活愉快！</p>
+    <p class="fl"><span class="icon horn fl"></span><span class="notic">欢迎来到57游戏，祝你生活愉快！</span></p>
     <div class="topbar fr"> <a href="register.jsp">[注册]</a> <a href="login.jsp">[登录]</a> <a href="#">[忘记密码]</a> </div>
   </div>
 </div>
