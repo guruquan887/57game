@@ -2,7 +2,7 @@
 <!--top-->
 <div id="top_bg">
   <div class="w_1000 clearfix">
-    <p class="fl"><span class="icon horn fl"></span><span class="notic">欢迎来到57游戏，祝你生活愉快！</span></p>
+    <p class="fl"><span class="icon horn fl"></span><span class="notic"><marquee scrollamount="3">欢迎来到57游戏，祝你生活愉快！</marquee></span></p>
     <div class="topbar fr"> <a href="register.jsp">[注册]</a> <a href="login.jsp">[登录]</a> <a href="#">[忘记密码]</a> </div>
   </div>
 </div>
